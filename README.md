@@ -1,6 +1,6 @@
- Hi there 👋 I'm **Prakash**,Webpage Design and Developer
+ **Hi there** 👋 I'm **Prakash**,Webpage Design and Developer
  
- Skill:HTML|JavaScript|Python|PHP| 
+ **Skill:HTML|JavaScript|Python|PHP **
 
 - 🔭 I’m currently working on CLOUD Project
 - 🌱 I’m currently learning JAVA
